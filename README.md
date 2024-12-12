@@ -23,7 +23,7 @@ A perceptually uniform color palette provided by Bokeh, useful for data visualiz
 **Category20 (from Bokeh):**
 A Bokeh color palette with 20 distinct colors. It is commonly used for categorical data visualizations to ensure color clarity and differentiation.
 
-### NECESSARY FILES TO BE LOAD
+### NECESSARY FILES
 
 **Dataset (minard_fixed.csv):**
 This CSV file contains structured data related to Napoleon's Russian Campaign, including details like city names, geographic coordinates, temperature, dates, and survivor counts. It serves as the primary data source for visualizing the advance and retreat paths of Napoleon's army.
